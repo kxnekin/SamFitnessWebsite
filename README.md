@@ -27,13 +27,7 @@ This project is a clean and professional gym website that includes:
 
 ---
 
-## 🗂️ Project Structure
-gym-website/
-├── index.php
-├── style.css
-├── dumbell.png
-├── gym.png
-└── README.md
+<pre><code>## 🗂️ Project Structure ``` gym-website/ ├── index.php ├── style.css ├── utils.css ├── dumbell.png ├── gym.png └── README.md ``` </code></pre>
 
 ---
 
